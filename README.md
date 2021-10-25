@@ -1,2 +1,2 @@
-# Online-Charity-Management-System
-Online Charity Management system developed using Spring Boot
+# Flight-Management-System
+Integrated Case study for Capgemini Training
